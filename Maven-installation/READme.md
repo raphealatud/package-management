@@ -29,7 +29,7 @@ git --version
 ## 2. Download, extract and Install Maven
 ``` sh
 #Step1) Download the Maven Software
-wget https://mirrors.estointernet.in/apache/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.tar.gz
+sudo wget https://mirrors.estointernet.in/apache/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.zip
 sudo unzip apache-maven-3.6.3-bin.zip
 sudo rm -rf apache-maven-3.6.3-bin.zip
 sudo mv apache-maven-3.6.3/ maven
